@@ -12,7 +12,7 @@ def read_data(file_name, field):
     :return: (list, string),
     """
     file_path = os.path.join(cwd_path, file_name)
-
+    if
 
 def main():
     pass
